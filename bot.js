@@ -118,10 +118,10 @@ const BOT_USERNAME = "cinemamod_bot";
 // ✅ Kanallar (o'zingizniki)
 // ⚠️ chat_id faqat bitta minus bilan: -100...
 const PRIVATE_CHANNELS = [
-  { title: "KANAL 1", url: "https://t.me/+kS5Nte16f8UxOTBi", chat_id: -1003644481980 },
-  { title: "new tv", url: "https://t.me/+EBC78dAcxQ1ZGY6", chat_id: -1003869535032 },
-  { title: "films", url: "https://t.me/+dwhdh71fyww2ZmEy", chat_id: -1003691542620 },
-  { title: "KANAL 4", url: "https://t.me/+dBOf4C9fOVpkNWYy", chat_id: -1003762593534 },
+  { title: "KANAL 1", url: "https://t.me/+NuS82o4LNsVjNmMy", chat_id: -1003644481980 },
+  { title: "new tv", url: "https://t.me/+FUwnFt4ZYaRkZjky", chat_id: -1003869535032 },
+  { title: "films", url: "https://t.me/+YrKkBJzv_jg2MGNi", chat_id: -1003691542620 },
+  { title: "KANAL 4", url: "https://t.me/+nZ9TWNvsVcs0NmMy", chat_id: -1003762593534 },
 ];
 
 console.log("✅ Bot ishga tushdi.");
